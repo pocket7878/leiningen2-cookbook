@@ -1,0 +1,30 @@
+{
+  "name": "leiningen2",
+  "description": "Installs Leiningen2 for building Clojure projects.",
+  "long_description": "= DESCRIPTION:\n\nInstalls Leiningen2 for building Clojure projects.\n\nRetrieve shell script, install jar files.\n",
+  "maintainer": "Masato Sogame",
+  "maintainer_email": "poketo7878@gmail.com",
+  "license": "Apache 2.0",
+  "platforms": {
+  },
+  "dependencies": {
+    "java": ">= 0.0.0"
+  },
+  "recommendations": {
+  },
+  "suggestions": {
+  },
+  "conflicting": {
+  },
+  "providing": {
+  },
+  "replacing": {
+  },
+  "attributes": {
+  },
+  "groupings": {
+  },
+  "recipes": {
+  },
+  "version": "0.1.0"
+}
